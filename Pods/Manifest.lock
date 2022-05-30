@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.5.0)
+  - PTCardTabBar (1.0.2)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - PTCardTabBar
+  - SDWebImage
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PTCardTabBar
+    - SDWebImage
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  PTCardTabBar: 9f94e31b447629aead75cd21cdaa6ae1f2c8bac6
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 8a2cb827f7ab4f2af7a2da121c866615250f0a6d
+
+COCOAPODS: 1.11.2
